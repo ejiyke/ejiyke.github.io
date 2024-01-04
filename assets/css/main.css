@@ -645,6 +645,44 @@ input, select, textarea {
 			padding: 0;
 		}
 
+/* form */
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+   }
+
+/* skills */
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+th {
+	text-align: center;
+	padding: 500px;
+}
+
+td {
+	border: none;
+	padding: 8px;
+	text-align: center;
+}
+
+.skills-image {
+	width: 100px;
+	height: auto;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+
 /* Icon */
 
 	.icon {
